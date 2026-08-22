@@ -10,6 +10,7 @@ __pycache__/
 # Jupyter Notebook
 # -----------------------------
 .ipynb_checkpoints/
+rough_notebooks/
 
 # -----------------------------
 # Virtual Environments
