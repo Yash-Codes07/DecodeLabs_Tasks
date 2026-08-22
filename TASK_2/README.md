@@ -110,6 +110,8 @@ Through this project, I learned how to:
 ---
 ## 👤 Author
 **Yash Singh**
+
 B.Sc. (Hons.) Computer Science
 Keshav Mahavidyalaya, University of Delhi
+
 **Decode Labs – Data Science Internship**
