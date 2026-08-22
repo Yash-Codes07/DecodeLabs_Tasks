@@ -35,7 +35,7 @@ This project focuses on exploring, cleaning, and preparing an e-commerce order d
 ## 📁 Project Structure
 
 ```text
-Task-1-YashSingh/
+TASK_1/
 │
 ├── data/
 │   ├── Dataset for Data Analytics.xlsx
